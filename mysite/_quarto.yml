@@ -1,16 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
 website:
-  title: "Yanyan Zhan"
-  search: true                   # allows users to search your site
+  title: "My Quarto Site"
   navbar:
-    collapse-below: lg
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - href: research.qmd       # add new files for each new page
-        text: Research
       - href: about.qmd
         text: About
-      - icon: github             # can add social media icons
-        aria-label: GitHub
 
-
+format:
+  html:
+    theme: cosmo

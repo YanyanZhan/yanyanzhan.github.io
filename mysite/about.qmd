@@ -1,6 +1,6 @@
 ---
-title: "Yanyan Zhan"
+title: "Welcome to My Quarto Site"
 format: html
-page-layout: full
-toc: false
 ---
+
+# 👋 Hello and welcome!
