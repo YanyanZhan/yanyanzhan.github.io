@@ -1,7 +1,6 @@
 ---
-title: "Brian Harrold"
+title: "Yanyan Zhan"
 format: html
-title-block-banner: assets/banner.jpeg
 page-layout: full
 toc: false
 ---
