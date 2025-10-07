@@ -1,6 +1,18 @@
-project:
-  type: website
-  output-dir: ../docs
-
+website:
+  title: "Brian Harrold"
+  site-url: https://stat-brain.github.io/bharrold/
+  search: true                   # allows users to search your site
+  navbar:
+    collapse-below: lg
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd       # add new files for each new page
+        text: Research
+      - href: about.qmd
+        text: About
+      - icon: github             # can add social media icons
+        href: https://github.com/stat-brain
+        aria-label: GitHub
 
 

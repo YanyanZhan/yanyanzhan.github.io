@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Brian Harrold"
+format: html
+title-block-banner: assets/banner.jpeg
+page-layout: full
+toc: false
 ---
-
-About this site
