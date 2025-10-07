@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "Welcome to My Quarto Site",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "👋 Hello and welcome!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Welcome to My Quarto Site",
     "section": "",
-    "text": "About this site"
+    "text": "👋 Hello and welcome!"
   }
 ]
